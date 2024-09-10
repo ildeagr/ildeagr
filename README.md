@@ -1,5 +1,3 @@
-[![Header](https://github.com/ildeagr/photos/blob/main/Diseño%20sin%20título-2.png)]
-
 ![mainimage](https://github.com/user-attachments/assets/6aba8244-52b3-4d09-8f4a-91e64bd992c2)
 
 ## Sobre mí

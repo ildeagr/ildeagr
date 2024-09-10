@@ -1,4 +1,4 @@
-![Captura de pantalla 2024-09-10 a las 22 16 32](https://github.com/user-attachments/assets/565652e1-b92e-4808-8727-888f9a9cc93b)
+![IMG_7194](https://github.com/user-attachments/assets/c6610934-97b4-4811-9e92-23cb38966073)
 
 ## 👉 Sobre mí
 Soy un entusiasta de la programación, especializado en Java y Kotlin. Desarrollo backend con Spring Boot y aplicaciones móviles Android. Busco oportunidades para crecer y crear soluciones innovadoras.

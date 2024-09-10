@@ -1,5 +1,8 @@
-## Hi there 👋
 
+
+
+## Sobre mí
+Soy un entusiasta de la programación, especializado en Java y Kotlin. Desarrollo backend con Spring Boot y aplicaciones móviles Android. Busco oportunidades para crecer y crear soluciones innovadoras.
 <!--
 **ildeagr/ildeagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

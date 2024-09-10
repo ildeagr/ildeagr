@@ -1,4 +1,4 @@
-![IMG_7194](https://github.com/user-attachments/assets/c6610934-97b4-4811-9e92-23cb38966073)
+![IMG_7194](https://github.com/user-attachments/assets/17b7299b-1b3d-4fdd-b700-9adfd3c66511)
 
 ## 👉 Sobre mí
 Soy un entusiasta de la programación, especializado en Java y Kotlin. Desarrollo backend con Spring Boot y aplicaciones móviles Android. Busco oportunidades para crecer y crear soluciones innovadoras.

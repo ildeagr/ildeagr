@@ -11,13 +11,13 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Desarroll
 
 ## Frameworks:
 ![icons8-logotipo-de-primavera-40](https://github.com/user-attachments/assets/34c5d39b-c190-4ce8-a80e-2139073617de) SpringBoot
-![Eclipse IDE](https://github.com/user-attachments/assets/ca1b461f-a36d-4031-a1f8-a26f00d8a5f9 | width=100) Eclipse
+Eclipse
 ![icons8-android-os-48](https://github.com/user-attachments/assets/b267c704-f835-4fb9-a995-74408dd69b87) Android Studio
 
 
 ## Otros:
-![logotipo-de-github](https://github.com/user-attachments/assets/2221a234-cdfd-4659-9b15-ba94ebade128) GitHub
-![Postman](https://github.com/user-attachments/assets/5fe15b45-4c73-471d-83cb-006c5bde6c31) Postman
+GitHub
+Postman
 ![icons8-kubernetes-48](https://github.com/user-attachments/assets/967e7759-5efb-4866-b0e3-e061bb8f20f8) Kubernetes
 ![icons8-estibador-48](https://github.com/user-attachments/assets/d56fc67d-c1a9-46cf-8755-1792049fc65b) Dockers
 

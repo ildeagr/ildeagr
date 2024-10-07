@@ -17,12 +17,12 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Desarroll
 ![icons8-github-48](https://github.com/user-attachments/assets/fbfba374-cb7b-46c3-ab19-e5684b9131d0) 
 ![icons8-logo-de-mysql-48](https://github.com/user-attachments/assets/7e542b78-53bd-429b-b746-5b4806e3db6f)
 ![icons8-sql-64-2](https://github.com/user-attachments/assets/be8004ef-4d82-4d3f-9532-787fea8c8453)
-![icons8-mongo-db-48](https://github.com/user-attachments/assets/65ab5124-376f-4da4-a7a4-b70c613617ab)
+<!--![icons8-mongo-db-48](https://github.com/user-attachments/assets/65ab5124-376f-4da4-a7a4-b70c613617ab)
 ![icons8-firebase-48](https://github.com/user-attachments/assets/42278936-a898-4721-9e85-d5df6cb554cb)
-![icons8-logo-de-oracle-48](https://github.com/user-attachments/assets/caaee702-f61a-4795-a66f-16c225b2123b)
+![icons8-logo-de-oracle-48](https://github.com/user-attachments/assets/caaee702-f61a-4795-a66f-16c225b2123b)-->
 
 ## Otros:
-![Junit](https://github.com/user-attachments/assets/4c6a236e-59f6-4f7b-b525-4bb90b1981d1)
+<!--![Junit](https://github.com/user-attachments/assets/4c6a236e-59f6-4f7b-b525-4bb90b1981d1) -->
 ![Postman-2](https://github.com/user-attachments/assets/fd2de5e1-61c3-4acf-8f28-d7689ac1bcc1) 
 ![icons8-kubernetes-48](https://github.com/user-attachments/assets/967e7759-5efb-4866-b0e3-e061bb8f20f8) 
 ![icons8-estibador-48](https://github.com/user-attachments/assets/d56fc67d-c1a9-46cf-8755-1792049fc65b) 

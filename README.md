@@ -4,15 +4,13 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Desarroll
 
 ## Conocimientos y habilidades
 
-## Lenguajes:
-![icons8-logotipo-de-java-48](https://github.com/user-attachments/assets/2f492841-dfe0-42c0-be86-718ac61232a8) Java
-![icons8-kotlin-48](https://github.com/user-attachments/assets/f22b46aa-7389-4623-96da-061093256c78 ) Kotlin
-![icons8-c++-48](https://github.com/user-attachments/assets/8bebbb6d-9d4b-47e4-a046-b4a3a21b3188) C++
-
-## Frameworks:
-![icons8-logotipo-de-primavera-40](https://github.com/user-attachments/assets/34c5d39b-c190-4ce8-a80e-2139073617de) SpringBoot
-![Eclipse IDE-2](https://github.com/user-attachments/assets/5a950a7e-62b2-4505-9073-27382e42867f) Eclipse
-![icons8-android-os-48](https://github.com/user-attachments/assets/b267c704-f835-4fb9-a995-74408dd69b87) Android Studio
+## Lenguajes y Frameworks:
+![icons8-logotipo-de-java-48](https://github.com/user-attachments/assets/2f492841-dfe0-42c0-be86-718ac61232a8) 
+![icons8-kotlin-48](https://github.com/user-attachments/assets/f22b46aa-7389-4623-96da-061093256c78 ) 
+![icons8-c++-48](https://github.com/user-attachments/assets/8bebbb6d-9d4b-47e4-a046-b4a3a21b3188) 
+![icons8-logotipo-de-primavera-40](https://github.com/user-attachments/assets/34c5d39b-c190-4ce8-a80e-2139073617de) 
+![Eclipse IDE-2](https://github.com/user-attachments/assets/5a950a7e-62b2-4505-9073-27382e42867f) 
+![icons8-android-os-48](https://github.com/user-attachments/assets/b267c704-f835-4fb9-a995-74408dd69b87) 
 
 
 ## Otros:

@@ -11,7 +11,7 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Desarroll
 
 ## Frameworks:
 ![icons8-logotipo-de-primavera-40](https://github.com/user-attachments/assets/34c5d39b-c190-4ce8-a80e-2139073617de) SpringBoot
-<img ![Eclipse IDE](https://github.com/user-attachments/assets/ca1b461f-a36d-4031-a1f8-a26f00d8a5f9) width="50" /> Eclipse
+![Eclipse IDE](https://github.com/user-attachments/assets/ca1b461f-a36d-4031-a1f8-a26f00d8a5f9/w_300) Eclipse
 ![icons8-android-os-48](https://github.com/user-attachments/assets/b267c704-f835-4fb9-a995-74408dd69b87) Android Studio
 
 

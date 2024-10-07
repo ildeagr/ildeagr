@@ -12,12 +12,16 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Desarroll
 ![Eclipse IDE-2](https://github.com/user-attachments/assets/5a950a7e-62b2-4505-9073-27382e42867f) 
 ![icons8-android-os-48](https://github.com/user-attachments/assets/b267c704-f835-4fb9-a995-74408dd69b87) 
 
+## Control de versiones y BBDD:
+![icons8-github-48](https://github.com/user-attachments/assets/7fe340ae-06af-4394-bbf8-1b8ed375550a)
+![icons8-github-48](https://github.com/user-attachments/assets/fbfba374-cb7b-46c3-ab19-e5684b9131d0) 
+![icons8-logo-de-mysql-48](https://github.com/user-attachments/assets/7e542b78-53bd-429b-b746-5b4806e3db6f)
+
 
 ## Otros:
-![icons8-github-48](https://github.com/user-attachments/assets/fbfba374-cb7b-46c3-ab19-e5684b9131d0) GitHub
-![Postman-2](https://github.com/user-attachments/assets/fd2de5e1-61c3-4acf-8f28-d7689ac1bcc1) Postman
-![icons8-kubernetes-48](https://github.com/user-attachments/assets/967e7759-5efb-4866-b0e3-e061bb8f20f8) Kubernetes
-![icons8-estibador-48](https://github.com/user-attachments/assets/d56fc67d-c1a9-46cf-8755-1792049fc65b) Dockers
+![Postman-2](https://github.com/user-attachments/assets/fd2de5e1-61c3-4acf-8f28-d7689ac1bcc1) 
+![icons8-kubernetes-48](https://github.com/user-attachments/assets/967e7759-5efb-4866-b0e3-e061bb8f20f8) 
+![icons8-estibador-48](https://github.com/user-attachments/assets/d56fc67d-c1a9-46cf-8755-1792049fc65b) 
 
 ## Proyectos
 

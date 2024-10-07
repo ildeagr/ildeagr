@@ -16,7 +16,7 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Desarroll
 
 
 ## Otros:
-![logotipo-de-github-2](https://github.com/user-attachments/assets/02bba1ac-fcd6-4048-8adf-e7043673dacd) GitHub
+![icons8-github-48](https://github.com/user-attachments/assets/fbfba374-cb7b-46c3-ab19-e5684b9131d0) GitHub
 ![Postman-2](https://github.com/user-attachments/assets/fd2de5e1-61c3-4acf-8f28-d7689ac1bcc1) Postman
 ![icons8-kubernetes-48](https://github.com/user-attachments/assets/967e7759-5efb-4866-b0e3-e061bb8f20f8) Kubernetes
 ![icons8-estibador-48](https://github.com/user-attachments/assets/d56fc67d-c1a9-46cf-8755-1792049fc65b) Dockers

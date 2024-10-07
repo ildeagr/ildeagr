@@ -26,7 +26,7 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Desarroll
 ![icons8-kubernetes-48](https://github.com/user-attachments/assets/967e7759-5efb-4866-b0e3-e061bb8f20f8) 
 ![icons8-estibador-48](https://github.com/user-attachments/assets/d56fc67d-c1a9-46cf-8755-1792049fc65b) 
 
-## Proyectos
+<!--## Proyectos: -->
 
 <!--
 **ildeagr/ildeagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

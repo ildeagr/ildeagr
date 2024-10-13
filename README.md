@@ -26,7 +26,18 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Desarroll
 ![icons8-kubernetes-48](https://github.com/user-attachments/assets/967e7759-5efb-4866-b0e3-e061bb8f20f8) 
 ![icons8-estibador-48](https://github.com/user-attachments/assets/d56fc67d-c1a9-46cf-8755-1792049fc65b) 
 
-<!--## Proyectos: -->
+<!--## Proyectos: 
+## Gestor de Catalogo:
+El objetivo es la gestión de un Catalogo de productos a través de una aplicación movil como interfaz de usuario. El usuario puede realizar diferentes tareas que serán peticiones Restfull a un microservicio en la parte de backend. El microservicio gestiona dichas peticiones y devuelve la respuesta al usuario una vez realizada la petición con la base de datos.
+
+## Logros obtenidos:
+Realizar proyecto como fullstack desarrollando tanto el frotend como el backend.
+
+Mayor comprensión y conocimiento de la gestión de peticiones Restfull desde ambos lados del desarrollo.
+
+## Habilidades aplicadas durante el desarrollo:
+Java, kotlin, Springboot, Android Studio, MySQL y Github.
+-->
 
 <!--
 **ildeagr/ildeagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

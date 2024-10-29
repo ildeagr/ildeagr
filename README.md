@@ -1,5 +1,5 @@
 ## 👉 Sobre mí
-Soy un entusiasta de la programación, especializado en Java y Kotlin. Desarrollo backend con Spring Boot y aplicaciones móviles Android. Busco oportunidades para crecer y crear soluciones innovadoras con todas mis habilidades sobre programación. Me dedico cada día a seguir aprendiendo y prefeccionando mis conocimientos, creando soluciones en cada código que implemento.
+Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado en desarrollo backend con Spring Boot y Api Rest  pero aprendiendo conocimientos y habilidades de Fronted para conseguir codigo más eficiente entendiendo todos los campos que desarrolla un full stack. Busco oportunidades para crecer y crear soluciones innovadoras con todas mis habilidades sobre programación. Me dedico cada día a seguir aprendiendo y prefeccionando mis conocimientos, creando soluciones en cada código que implemento.
 
 ### 🚀 ¿Qué hago actualmente?
 

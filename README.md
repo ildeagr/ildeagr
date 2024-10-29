@@ -49,6 +49,9 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado 
   - Documentos utiles para aprender microservicios.
   - Proyecto con Spring Boot básico.
   - Métodos en java que resuelven algoritmos
+      - https://github.com/ildeagr/Sorting_methods_Java
+      - https://github.com/ildeagr/Algorithms_in_Java
+    
 
 ### 🌐 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ildefonso-albares-garcia/)

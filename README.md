@@ -41,6 +41,7 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Desarroll
 
 ### 🌐 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ildefonso-albares-garcia/)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pireseduardo/)](#)
 
 <!-- ## Proyectos:
 <a href="https://github.com/ildeagr/ABS4SOW"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>

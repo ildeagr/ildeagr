@@ -5,32 +5,41 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Desarroll
 ## Conocimientos y habilidades
 
 ### Lenguajes:
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
-![icons8-logotipo-de-java-48](https://github.com/user-attachments/assets/2f492841-dfe0-42c0-be86-718ac61232a8) 
-![icons8-kotlin-48](https://github.com/user-attachments/assets/f22b46aa-7389-4623-96da-061093256c78 ) 
-![icons8-c++-48](https://github.com/user-attachments/assets/8bebbb6d-9d4b-47e4-a046-b4a3a21b3188)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+<!--[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)-->
 ## Frameworks:
-![icons8-logotipo-de-primavera-40](https://github.com/user-attachments/assets/34c5d39b-c190-4ce8-a80e-2139073617de) 
-![Eclipse IDE-2](https://github.com/user-attachments/assets/5a950a7e-62b2-4505-9073-27382e42867f) 
-![icons8-android-os-48](https://github.com/user-attachments/assets/b267c704-f835-4fb9-a995-74408dd69b87) 
-![icons8-matlab-48](https://github.com/user-attachments/assets/16a32c33-2bbb-4bf1-b7c3-df9f363a2677)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![Android](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android&logoColor=white)](#)
+<!-- [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)-->
 ## Control de versiones y BBDD:
-![icons8-github-48](https://github.com/user-attachments/assets/fbfba374-cb7b-46c3-ab19-e5684b9131d0) 
-![icons8-logo-de-mysql-48](https://github.com/user-attachments/assets/7e542b78-53bd-429b-b746-5b4806e3db6f)
-![icons8-sql-64-2](https://github.com/user-attachments/assets/be8004ef-4d82-4d3f-9532-787fea8c8453)
-<!--![icons8-mongo-db-48](https://github.com/user-attachments/assets/65ab5124-376f-4da4-a7a4-b70c613617ab)
-![icons8-firebase-48](https://github.com/user-attachments/assets/42278936-a898-4721-9e85-d5df6cb554cb)
-![icons8-logo-de-oracle-48](https://github.com/user-attachments/assets/caaee702-f61a-4795-a66f-16c225b2123b)-->
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+<!-- [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)-->
+
+
 ## Test Unitarios y contenedores:
-<!--![Junit](https://github.com/user-attachments/assets/4c6a236e-59f6-4f7b-b525-4bb90b1981d1) -->
-![Postman-2](https://github.com/user-attachments/assets/fd2de5e1-61c3-4acf-8f28-d7689ac1bcc1) 
-![icons8-kubernetes-48](https://github.com/user-attachments/assets/967e7759-5efb-4866-b0e3-e061bb8f20f8) 
-![icons8-estibador-48](https://github.com/user-attachments/assets/d56fc67d-c1a9-46cf-8755-1792049fc65b) 
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+<!--[![Junit](https://img.shields.io/badge/junit5-none?logo=junit5&logoColor=fff)](#)-->
 
-<!--
--->
-
-<!--
+<!-- ###Otras herramientas:
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#) -->
+<!--[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)
 **ildeagr/ildeagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

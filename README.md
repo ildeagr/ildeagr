@@ -40,11 +40,11 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado 
 <tr>
 <td>
 <a href="https://github.com/ildeagr/Proyecto-Catalogo-Fronted">
-<img src="https://github.com/user-attachments/assets/d695cd64-3132-4abe-98a2-c02f921df132" style="height: 25%; width:100%;"/></a>
+<img src="https://github.com/user-attachments/assets/d695cd64-3132-4abe-98a2-c02f921df132" style="width:100%;"/></a>
 </td>
 <td>
 <a href="https://github.com/ildeagr/Proyecto-Catalogo-Backend">
-<img src="https://github.com/user-attachments/assets/89db3e70-819c-4d51-bac8-dc4fe4d42275" style="height: 25%; width:100%;"/></a>
+<img src="https://github.com/user-attachments/assets/89db3e70-819c-4d51-bac8-dc4fe4d42275" style="width:100%;"/></a>
 </td>
 </tr>
 </table>

@@ -30,19 +30,7 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Desarroll
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 
-### 🧠 Siempre aprendiendo
-
-- **Repositorio Playground**: Comparto mis notas y prácticas de desarrollo en [Playground](https://github.com/lgzarturo/playground).
-- **Blog personal**: Publico artículos y recursos en [arthurolg.com](https://arthurolg.com)
-- Artículos recientes:
-  - Consejos, Hábitos y Lecturas Fundamentales para Desarrolladores
-  - Introducción al Diseño de APIs REST
-  - Estructura de un proyecto con Spring Boot
-
-### 🌐 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ildefonso-albares-garcia/)
-
-<!-- ## Proyectos:
+<!-- ## 💡 Proyectos destacados:
 <a href="https://github.com/ildeagr/ABS4SOW"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
 
 <a href="https://github.com/ildeagr/Proyecto-Catalogo-Fronted"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
@@ -50,6 +38,17 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Desarroll
 <a href="https://github.com/ildeagr/Proyecto-Catalogo-Backend"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
 
 <a href="https://retosdeprogramacion.com/roadmap"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a> -->
+
+### 🧠 Siempre aprendiendo y compartiendo
+
+- **Repositorio:** Comparto mis proyectos y prácticas de desarrollo.
+- **Artículos recientes:**
+  - Documentos utiles para aprender microservicios.
+  - Proyecto con Spring Boot básico.
+  - Métodos en java que resuelven algoritmos
+
+### 🌐 Conéctate conmigo
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ildefonso-albares-garcia/)
 
 <!-- -**Otras herramientas pendientes de aprender:**
 [![Junit](https://img.shields.io/badge/junit5-none?logo=junit5&logoColor=fff)](#)

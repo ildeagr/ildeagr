@@ -4,7 +4,8 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Desarroll
 
 ## Conocimientos y habilidades
 
-## Lenguajes:
+### Lenguajes:
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 ![icons8-logotipo-de-java-48](https://github.com/user-attachments/assets/2f492841-dfe0-42c0-be86-718ac61232a8) 
 ![icons8-kotlin-48](https://github.com/user-attachments/assets/f22b46aa-7389-4623-96da-061093256c78 ) 
 ![icons8-c++-48](https://github.com/user-attachments/assets/8bebbb6d-9d4b-47e4-a046-b4a3a21b3188)

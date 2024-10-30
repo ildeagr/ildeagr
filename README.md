@@ -57,6 +57,7 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado 
   </td>
 </tr>
 </table>
+
 ### 🧠 Siempre aprendiendo y compartiendo
 
 - **Repositorio:** Comparto mis proyectos y prácticas de desarrollo.

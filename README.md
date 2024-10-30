@@ -17,6 +17,8 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado 
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 - **Frameworks:**
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
@@ -38,18 +40,23 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado 
 
 <table style="width:100%">
 <tr>
-<td>
-<a href="https://github.com/ildeagr/Proyecto-Catalogo-Fronted">
-<img src="https://github.com/user-attachments/assets/d695cd64-3132-4abe-98a2-c02f921df132" style="width:100%;"/></a>
-</td>
-<td>
-<a href="https://github.com/ildeagr/Proyecto-Catalogo-Backend">
-<img src="https://github.com/user-attachments/assets/89db3e70-819c-4d51-bac8-dc4fe4d42275" style="width:100%;"/></a>
-</td>
+  <td>
+    <a href="https://github.com/ildeagr/Proyecto-Catalogo-Fronted">
+    <img src="https://github.com/user-attachments/assets/d695cd64-3132-4abe-98a2-c02f921df132" style="width:100%;"/></a>
+  </td>
+  <td>
+    <a href="https://github.com/ildeagr/Proyecto-Catalogo-Backend">
+    <img src="https://github.com/user-attachments/assets/89db3e70-819c-4d51-bac8-dc4fe4d42275" style="width:100%;"/></a>
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <a href="https://github.com/ildeagr/Web_Store">
+    <img src="https://github.com/user-attachments/assets/bebdc902-7e36-4dbf-9f60-e8e535ab5bc7" style="width:100%;"/></a>
+  </td>
 </tr>
 </table>
-
-
 ### 🧠 Siempre aprendiendo y compartiendo
 
 - **Repositorio:** Comparto mis proyectos y prácticas de desarrollo.
@@ -75,9 +82,4 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado 
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)-->
-
-<!--[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)
--->

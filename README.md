@@ -8,7 +8,7 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado 
 
 - 👨🏻‍💻 **Desarrollando mis propios proyectos**: Creando soluciones y poniendo en práctica mis habilidades.
 - 🤺 **Aprendiendo**: Profundizando en **microservicios** y **desarrollo** **web** para ampliar mis conocimientos para crear código eficiente y las mejores soluciones.
-- 💼 **Estudiando desarrollo web:** para mejoras mis habilidades de frontend.
+- 💼 **Estudiando desarrollo web y python:** para mejoras mis habilidades de frontend y backend.
 
 ### 🛠️ Tecnologias y herramientas
 

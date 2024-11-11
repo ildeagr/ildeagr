@@ -54,6 +54,10 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado 
 
 <tr>
   <td>
+    <a href="https://github.com/ildeagr/bankapp">
+    <img src="https://github.com/user-attachments/assets/feaf08c9-6113-47c5-8e78-5c8e021a831b" style="width:100%;"/></a>
+  </td>
+  <td>
     <a href="https://github.com/ildeagr/Web_Store">
     <img src="https://github.com/user-attachments/assets/bebdc902-7e36-4dbf-9f60-e8e535ab5bc7" style="width:100%;"/></a>
   </td>

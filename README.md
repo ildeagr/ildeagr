@@ -15,7 +15,9 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado 
 - **Lenguajes:**
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
@@ -82,6 +84,10 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Sonarqube](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)](#)-->
+[![Sonarqube](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)](#)
+https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white
+https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white
+https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white
+https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white
+https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white-->

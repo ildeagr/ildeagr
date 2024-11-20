@@ -15,7 +15,7 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado 
 - **Lenguajes:**
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
@@ -26,13 +26,16 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado 
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Android](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](#)
 - **Base de datos:**
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
 - **Control de versiones:**
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 - **Test unitarios y contenedores:**
+[![Junit](https://img.shields.io/badge/junit5-none?logo=junit5&logoColor=fff)](#)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
@@ -81,7 +84,7 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ildefonso-albares-garcia/)
 
 <!-- -**Otras herramientas pendientes de aprender:**
-[![Junit](https://img.shields.io/badge/junit5-none?logo=junit5&logoColor=fff)](#)
+
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
@@ -92,7 +95,7 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado 
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Sonarqube](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)](#)
-https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white
+
 https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white
 https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white
 https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white

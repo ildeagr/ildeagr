@@ -1,16 +1,16 @@
-
 <img src="https://github.com/user-attachments/assets/aa569411-139a-4b79-b1df-e00b04d6f68c" width="1000" height="400"/>
 
-## 👉 Sobre mí
-Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado en desarrollo backend con Spring Boot y Api Rest  pero aprendiendo conocimientos y habilidades de Fronted para conseguir codigo más eficiente entendiendo todos los campos que desarrolla un full stack. Busco oportunidades para crecer y crear soluciones innovadoras con todas mis habilidades sobre programación. Me dedico cada día a seguir aprendiendo y prefeccionando mis conocimientos, creando soluciones en cada código que implemento.
+## 👋 Sobre mí
+
+Soy un apasionado de la programación, especializado en Java y Kotlin, con foco principal en el desarrollo backend con Spring Boot y APIs REST. Me gusta construir soluciones escalables, limpias y funcionales, y estoy continuamente ampliando mis conocimientos en frontend para complementar mi perfil full stack.
 
 ### 🚀 ¿Qué hago actualmente?
 
-- 👨🏻‍💻 **Desarrollando mis propios proyectos**: Creando soluciones y poniendo en práctica mis habilidades.
-- 🤺 **Aprendiendo**: Profundizando en **microservicios** y **desarrollo** **web** para ampliar mis conocimientos para crear código eficiente y las mejores soluciones.
-- 💼 **Estudiando desarrollo web y python:** para mejoras mis habilidades de frontend y backend.
+- 👨🏻‍💻 **Desarrollando mis propios proyectos**: creo aplicaciones y soluciones prácticas para mejorar mis habilidades técnicas.
+- 🤺 **Aprendiendo**: profundizo en **microservicios**, **desarrollo web** y arquitecturas modernas.
+- 💼 **Estudiando frontend y Python**: para fortalecer mis habilidades tanto en el lado visual como en el backend.
 
-### 🛠️ Tecnologias y herramientas
+### 🛠️ Tecnologías y herramientas
 
 - **Lenguajes:**
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
@@ -21,29 +21,32 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado 
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-- **Frameworks:**
+
+- **Entornos y frameworks:**
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Android](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)](#)
-- **Base de datos:**
+
+- **Bases de datos:**
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+
 - **Control de versiones:**
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-- **Test unitarios y contenedores:**
-[![Junit](https://img.shields.io/badge/junit5-none?logo=junit5&logoColor=fff)](#)
+
+- **Testing y contenedores:**
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 
-## 💡 Proyectos destacados:
-<!-- <a href="https://github.com/ildeagr/ABS4SOW"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 50%; width:50%;"/></a> -->
+## 💡 Proyectos destacados
 
 <table style="width:100%">
 <tr>
@@ -78,25 +81,24 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado 
 
 ### 🧠 Siempre aprendiendo y compartiendo
 
-- **Repositorio:** Comparto mis proyectos y prácticas de desarrollo.
-- **Para aprender BBDD:**
-    -  https://github.com/ildeagr/MySQL
-    -  https://github.com/ildeagr/MongoDB
+- **Repositorio personal**: comparto mis proyectos, prácticas y ejercicios de desarrollo.
+- **Para aprender bases de datos:**
+  - https://github.com/ildeagr/MySQL
+  - https://github.com/ildeagr/MongoDB
 
-- **Repositorios para aprender:**
-- Documentos utiles para aprender microservicios.
-    - https://github.com/ildeagr/Documentacion-de-Microservicio 
-- Proyecto con Spring Boot básico.
-    - https://github.com/ildeagr/Springboot    
-- Métodos en java que resuelven algoritmos
+- **Repositorios de aprendizaje:**
+  - Documentación útil para microservicios: https://github.com/ildeagr/Documentacion-de-Microservicio
+  - Proyecto con Spring Boot básico: https://github.com/ildeagr/Springboot
+  - Métodos en Java para resolver algoritmos:
     - https://github.com/ildeagr/Sorting_methods_Java
     - https://github.com/ildeagr/Algorithms_in_Java
-    
 
 ### 🌐 Conéctate conmigo
+
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ildefonso-albares-garcia/)
 
-<!-- -**Otras herramientas pendientes de aprender:**
+<!--
+- Otras herramientas pendientes de aprender:
 
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
@@ -106,9 +108,10 @@ Soy un entusiasta de la programación, especializado en Java y Kotlin. Enfocado 
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Sonarqube](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)](#)
+[![SonarQube](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)](#)
 
 https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white
 https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white
 https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white
-https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white-->
+https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white
+-->

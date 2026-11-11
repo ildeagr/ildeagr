@@ -1,14 +1,14 @@
-<img src="https://github.com/user-attachments/assets/aa569411-139a-4b79-b1df-e00b04d6f68c" width="1000" height="400"/>
+<img width="3584" height="1184" alt="Gemini_Generated_Image_cplsaecplsaecpls" src="https://github.com/user-attachments/assets/26efbc11-6d8a-48b2-8487-3803468b8ca4" />
 
 ## 👋 Sobre mí
 
-Soy un apasionado de la programación, especializado en Java y Kotlin, con foco principal en el desarrollo backend con Spring Boot y APIs REST. Me gusta construir soluciones escalables, limpias y funcionales, y estoy continuamente ampliando mis conocimientos en frontend para complementar mi perfil full stack.
+Soy un apasionado de la programación, especializado en Java y Kotlin. Actualmente trabajo y sigo formándome en desarrollo backend e inteligencia artificial. Me interesa crear soluciones útiles y ampliar continuamente mis conocimientos en tecnologías y arquitecturas modernas.
 
 ### 🚀 ¿Qué hago actualmente?
 
-- 👨🏻‍💻 **Desarrollando mis propios proyectos**: creo aplicaciones y soluciones prácticas para mejorar mis habilidades técnicas.
-- 🤺 **Aprendiendo**: profundizo en **microservicios**, **desarrollo web** y arquitecturas modernas.
-- 💼 **Estudiando frontend y Python**: para fortalecer mis habilidades tanto en el lado visual como en el backend.
+- 👨🏻‍💻 **Trabajando y desarrollando proyectos**: aplico mis conocimientos de backend en soluciones prácticas.
+- 📚 **Estudiando backend e inteligencia artificial**: profundizo en estas áreas para seguir creciendo profesionalmente.
+- 🤺 **Aprendiendo**: continúo explorando microservicios y desarrollo web.
 
 ### 🛠️ Tecnologías y herramientas
 
@@ -24,7 +24,7 @@ Soy un apasionado de la programación, especializado en Java y Kotlin, con foco 
 
 - **Entornos y frameworks:**
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Android](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](#)
@@ -39,11 +39,14 @@ Soy un apasionado de la programación, especializado en Java y Kotlin, con foco 
 - **Control de versiones:**
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](#)
 
 - **Testing y contenedores:**
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](#)
+[![Bruno](https://img.shields.io/badge/Bruno-F4AA41?logo=bruno&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white)](#)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 
 ## 💡 Proyectos destacados

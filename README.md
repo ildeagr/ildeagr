@@ -2,13 +2,15 @@
 
 ## 👋 Sobre mí
 
-Soy un apasionado de la programación, especializado en Java y Kotlin. Actualmente trabajo y sigo formándome en desarrollo backend e inteligencia artificial. Me interesa crear soluciones útiles y ampliar continuamente mis conocimientos en tecnologías y arquitecturas modernas.
+Soy desarrollador especializado en **Java y desarrollo backend**, con experiencia creando servicios y soluciones basadas en **microservicios**. Me enfoco en diseñar sistemas robustos, mantenibles y escalables, y disfruto transformando necesidades en soluciones prácticas.
+
+Actualmente también estoy **implementando y aprendiendo sobre inteligencia artificial**, explorando cómo integrar sus capacidades en aplicaciones y servicios backend. Me motiva seguir evolucionando, aprender nuevas tecnologías y construir proyectos que combinen buenas prácticas de desarrollo con soluciones innovadoras.
 
 ### 🚀 ¿Qué hago actualmente?
 
-- 👨🏻‍💻 **Trabajando y desarrollando proyectos**: aplico mis conocimientos de backend en soluciones prácticas.
-- 📚 **Estudiando backend e inteligencia artificial**: profundizo en estas áreas para seguir creciendo profesionalmente.
-- 🤺 **Aprendiendo**: continúo explorando microservicios y desarrollo web.
+- 👨🏻‍💻 **Desarrollo backend con Java**: trabajo en la creación y evolución de servicios y aplicaciones.
+- 🧩 **Arquitecturas de microservicios**: diseño e implemento soluciones modulares, robustas y escalables.
+- 🤖 **Inteligencia artificial**: experimento con su implementación e integración en proyectos mientras sigo aprendiendo sobre el área.
 
 ### 🛠️ Tecnologías y herramientas
 
